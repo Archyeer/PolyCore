@@ -2,6 +2,8 @@
 
 # PolyCore
 
+![8172dc0092e32a4b8702e34cfa27ac89.png](https://i.mji.rip/2025/08/20/8172dc0092e32a4b8702e34cfa27ac89.png)
+
 ## 项目简介
 
 PolyCore 是一个基于 Qt 框架的跨平台代理客户端，继承自 Qv2ray 项目。支持 Windows, Linux, macOS 等平台。
